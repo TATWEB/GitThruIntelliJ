@@ -5,5 +5,6 @@ public class Cat {
         System.out.println("cat4");
         System.out.println("asdasdf");
         System.out.println("piuuhij");
+        System.out.println("999u98iu");
     }
 }
